@@ -69,11 +69,6 @@ Inspired by the portfolios of modern developers and creative web designers.
 - **GitHub:** [Oggyjackkk](https://github.com/YarisHaris)
 - **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/)
 
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
