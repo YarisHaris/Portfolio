@@ -67,7 +67,7 @@ Inspired by the portfolios of modern developers and creative web designers.
 
 - **Email:** [harisnadaf12@gmail.com](mailto:harisnadaf12@gmail.com)
 - **GitHub:** [Oggyjackkk](https://github.com/YarisHaris)
-- **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/)
+
 
 
 ---
