@@ -32,11 +32,11 @@ This project showcases my skills, projects, education, and contact information i
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-portfolio-repo.git
+    git clone "REPO LINK"
     ```
 2. **Navigate to the project folder:**
     ```bash
-    cd your-portfolio-repo
+    cd "REPO PATH "
     ```
 3. **Add your photo:**
     - Rename your image to `profile.png` and place it in the root folder.
